@@ -3,3 +3,6 @@
 3. Branches em Git ajudam a organizar diferentes linhas de desenvolvimento.
 4. O comando `git push` envia as mudanças locais para o repositório remoto.
 5. Utilizar `git status` ajuda a verificar o estado atual dos arquivos no repositório.
+faf
+fafaf
+fafa
