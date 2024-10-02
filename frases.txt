@@ -1,1 +1,5 @@
-testeando 1
+1. Git permite o controle de versões para gerenciar mudanças no código-fonte.
+2. Um commit no Git salva o estado atual do repositório.
+3. Branches em Git ajudam a organizar diferentes linhas de desenvolvimento.
+4. O comando `git push` envia as mudanças locais para o repositório remoto.
+5. Utilizar `git status` ajuda a verificar o estado atual dos arquivos no repositório.
